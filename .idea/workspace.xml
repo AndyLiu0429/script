@@ -35,8 +35,19 @@
       <file leaf-file-name="1.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Crypt/1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="0" selection-start="5291" selection-end="5291" vertical-scroll-proportion="0.0" vertical-offset="1332" max-vertical-offset="3135">
+            <state line="97" column="0" selection-start="5291" selection-end="5291" vertical-scroll-proportion="0.0" vertical-offset="1313" max-vertical-offset="3116">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Crypt/3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="21" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,6 +56,15 @@
         <entry file="file://$PROJECT_DIR$/algorithm-II/2-1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="42" column="25" selection-start="1179" selection-end="1179" vertical-scroll-proportion="0.0" vertical-offset="798" max-vertical-offset="1007">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorthim/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="19" selection-start="398" selection-end="398" vertical-scroll-proportion="0.53072625" vertical-offset="0" max-vertical-offset="537">
               <folding />
             </state>
           </provider>
@@ -59,28 +79,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorthim/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="19" selection-start="2135" selection-end="2135" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1311">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="3-1.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm-II/3-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="28" selection-start="614" selection-end="614" vertical-scroll-proportion="0.0" vertical-offset="49" max-vertical-offset="684">
+            <state line="30" column="9" selection-start="968" selection-end="968" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3-2.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="3-2.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm-II/3-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="14" selection-start="451" selection-end="451" vertical-scroll-proportion="0.52362204" vertical-offset="0" max-vertical-offset="508">
+            <state line="14" column="14" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
               <folding />
             </state>
           </provider>
@@ -109,24 +120,6 @@
                 <marker date="1404281374000" expanded="true" signature="542:778" placeholder="..." />
                 <marker date="1404281374000" expanded="true" signature="812:1014" placeholder="..." />
                 <marker date="1404281374000" expanded="true" signature="1027:1091" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dtree.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MLscript/dtree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="0" selection-start="2376" selection-end="2376" vertical-scroll-proportion="0.0" vertical-offset="1482" max-vertical-offset="1653">
-              <folding>
-                <marker date="1403690232000" expanded="true" signature="18:43" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-                <marker date="1403690232000" expanded="true" signature="44:112" placeholder="import ..." />
-                <marker date="1403690232000" expanded="true" signature="140:480" placeholder="..." />
-                <marker date="1403690232000" expanded="true" signature="522:755" placeholder="..." />
-                <marker date="1403690232000" expanded="true" signature="781:1376" placeholder="..." />
-                <marker date="1403690232000" expanded="true" signature="1405:1704" placeholder="..." />
-                <marker date="1403690232000" expanded="true" signature="1738:2312" placeholder="..." />
-                <marker date="1403690232000" expanded="true" signature="2366:2375" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -165,9 +158,10 @@
         <option value="$PROJECT_DIR$/Crypt/1.py" />
         <option value="$PROJECT_DIR$/algorithm-II/2-1.py" />
         <option value="$PROJECT_DIR$/algorithm-II/2-2.py" />
-        <option value="$PROJECT_DIR$/algorthim/test.py" />
-        <option value="$PROJECT_DIR$/algorithm-II/3-1.py" />
         <option value="$PROJECT_DIR$/algorithm-II/3-2.py" />
+        <option value="$PROJECT_DIR$/algorithm-II/3-1.py" />
+        <option value="$PROJECT_DIR$/Crypt/3.py" />
+        <option value="$PROJECT_DIR$/algorthim/test.py" />
       </list>
     </option>
   </component>
@@ -229,6 +223,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="algorthim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="algorithm-II" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -257,7 +265,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/datasci_course_materials" />
+    <property name="last_opened_file_path" value="$USER_HOME$/datasci_course_materials/assignment3" />
     <property name="FullScreen" value="true" />
     <property name="SearchEverywhereHistory" value="" />
     <property name="recentsLimit" value="5" />
@@ -273,7 +281,7 @@
       <recent name="$PROJECT_DIR$/crawl" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3-2">
+  <component name="RunManager" selected="Python.test">
     <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -494,9 +502,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.3-2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
         <item index="1" class="java.lang.String" itemvalue="Python.3-1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3-2" />
         <item index="3" class="java.lang.String" itemvalue="Python.2-2" />
         <item index="4" class="java.lang.String" itemvalue="Python.2-1" />
       </list>
@@ -554,19 +562,19 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32769045" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12614517" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.124305554" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31716418" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31680775" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -591,18 +599,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorthim/3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="931">
-          <folding>
-            <marker date="1400662573000" expanded="true" signature="-1:-1" placeholder="import ..." />
-            <marker date="1400662573000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1400662573000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1400662573000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crawl/crawl_bbs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="108" column="0" selection-start="2867" selection-end="2867" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1890" />
@@ -844,14 +840,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="78" column="0" selection-start="2376" selection-end="2376" vertical-scroll-proportion="0.0" vertical-offset="1120" max-vertical-offset="1653">
           <folding>
-            <marker date="1403690232000" expanded="true" signature="18:43" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1403690232000" expanded="true" signature="44:112" placeholder="import ..." />
-            <marker date="1403690232000" expanded="true" signature="140:480" placeholder="..." />
-            <marker date="1403690232000" expanded="true" signature="522:755" placeholder="..." />
-            <marker date="1403690232000" expanded="true" signature="781:1376" placeholder="..." />
-            <marker date="1403690232000" expanded="true" signature="1405:1704" placeholder="..." />
-            <marker date="1403690232000" expanded="true" signature="1738:2312" placeholder="..." />
-            <marker date="1403690232000" expanded="true" signature="2366:2375" placeholder="..." />
+            <marker date="1403690232000" expanded="true" signature="-1:-1" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1403690232000" expanded="true" signature="-1:-1" placeholder="import ..." />
+            <marker date="1403690232000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1403690232000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1403690232000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1403690232000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1403690232000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1403690232000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -892,13 +888,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Crypt/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="0" selection-start="5291" selection-end="5291" vertical-scroll-proportion="0.0" vertical-offset="1332" max-vertical-offset="3135">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm-II/2-1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="25" selection-start="1179" selection-end="1179" vertical-scroll-proportion="0.0" vertical-offset="392" max-vertical-offset="1007">
@@ -913,23 +902,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorthim/test.py">
+    <entry file="file://$PROJECT_DIR$/algorithm-II/3-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="19" selection-start="2135" selection-end="2135" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1311">
+        <state line="14" column="14" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm-II/3-1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="28" selection-start="614" selection-end="614" vertical-scroll-proportion="0.0" vertical-offset="49" max-vertical-offset="684">
+        <state line="30" column="9" selection-start="968" selection-end="968" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm-II/3-2.py">
+    <entry file="file://$PROJECT_DIR$/Crypt/1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="14" selection-start="451" selection-end="451" vertical-scroll-proportion="0.52362204" vertical-offset="0" max-vertical-offset="508">
+        <state line="97" column="0" selection-start="5291" selection-end="5291" vertical-scroll-proportion="0.0" vertical-offset="1332" max-vertical-offset="3135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crypt/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="21" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorthim/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="19" selection-start="398" selection-end="398" vertical-scroll-proportion="0.53072625" vertical-offset="0" max-vertical-offset="537">
           <folding />
         </state>
       </provider>
